@@ -1,0 +1,50 @@
+
+{
+    "D:/calltree_generator/data/good/good.great":       {"index": 0, "node": Function: <Control#36993762905> }, 
+    "D:/calltree_generator/data/hello/hello.foo":       {"index": 0, "node": Function:<Control#37278975594> }, 
+    "D:/calltree_generator/data/hello/hello.bar":       {"index": 1, "node": @Control@48:<Control#37463524981> }, 
+    "D:/calltree_generator/data/hello/hello.hi":        {"index": 2, "node": @Control@49:<Control#37648074368> }, 
+    "D:/calltree_generator/data/hello/hello.buz":       {"index": 3, "node": @Control@50:<Control#37832623755> }, 
+    "D:/calltree_generator/data/main.good":             {"index": 0, "node": Function:<Control#38117836444> }, 
+    "D:/calltree_generator/data/main.hello":            {"index": 1, "node": @Control@54:<Control#38302385831> }, 
+    "D:/calltree_generator/data/main.hi":               {"index": 2, "node": @Control@55:<Control#38486935218> } 
+}
+
+[
+    {
+        "from_module": "D:/calltree_generator/data/good/good", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/good/good", "to_function": "great" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/hello/hello", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/hello/hello", "to_function": "foo" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/hello/hello", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/hello/hello", "to_function": "bar" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/hello/hello", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/hello/hello", "to_function": "hi" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/hello/hello", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/hello/hello", "to_function": "bar" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/hello/hello", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/hello/hello", "to_function": "buz" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/main", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/main", "to_function": "good" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/main", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/main", "to_function": "hello" 
+    }, 
+    {
+        "from_module": "D:/calltree_generator/data/main", "from_function": "", 
+        "to_module": "D:/calltree_generator/data/main", "to_function": "hi" 
+    }
+]
